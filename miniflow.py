@@ -2,7 +2,6 @@
 Write the Linear#forward method below!
 """
 
-
 class Node:
     def __init__(self, inbound_nodes=[]):
         # Nodes from which this Node receives values
